@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunil Zakane</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on**NLP , Computer Vision**
+- 🔭 I’m currently working on**Real AI Projects**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Master of Science Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spyder123](https://github.com/spyder123)
 
-- 💬 Ask me about **Python,Machine Learning ,Deep Learning , DevOps**
+- 💬 Ask me about **Python,Machine Learning ,Deep Learning,NLP,CV DevOps**
 
 - 📫 How to reach me **sunilzakane78@gmail.com**
 
