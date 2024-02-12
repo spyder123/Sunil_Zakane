@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunil Zakane</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🔭 I’m currently working on**Real AI Projects**
+- 🔭 I’m currently working on **Real AI Projects**
 
-- 🌱 I’m currently learning **Master of Science Data Science**
+- 🌱 I’m currently learning **Msc Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/spyder123](https://github.com/spyder123)
 
